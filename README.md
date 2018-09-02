@@ -3,7 +3,8 @@
 Basic Neural Network Examples
 
 
-Artificial Neural Network - ann.py \n
+Artificial Neural Network - ann.py
+
 Convolutional Neural Network - cnn.py
 
 
