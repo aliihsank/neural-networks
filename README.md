@@ -1,2 +1,2 @@
-# neural-networks
+# Neural-networks
 Basic Neural Network Examples
